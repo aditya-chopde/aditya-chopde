@@ -1,6 +1,6 @@
 # Hi there, I'm Aditya Chopde! 👋
 
-Welcome to my GitHub profile! I'm passionate about coding, technology, and continuous learning. Here's a little about me and what I do:
+Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about coding, technology, and continuous learning. Here's a little about me and what I do:
 
 ## About Me
 
