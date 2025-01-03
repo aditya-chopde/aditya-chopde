@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 
 ## Skills
 
-- **Programming Languages**: C | Javascript 
+- **Programming Languages**: C/C++ | Javascript 
 - **Frameworks and Libraries**: Node Js | HTML | CSS | Tailwind CSS | Bootstrap | EJS | React | Express Js
 - **Databases**: MongoDB
 
