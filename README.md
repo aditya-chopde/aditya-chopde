@@ -6,23 +6,15 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 
 - 💻 I am a student at Government Polytechnic Nagpur.
 - 🎓 I am currently pursuing my Diploma in Computer Engineering from Government Polytechnic Nagpur.
-- 🌱 I’m currently learning MERN Stack and DSA.
+- 🌱 I’m currently learning Full Stack Stack and DSA.
 - 🤔 I’m looking to contribute in freelancing Projects.
 - 📫 How to reach me: its.adityac@gmail.com.
 
 ## Skills
 
-- **Programming Languages**: C/C++ | Javascript 
+- **Programming Languages**: C/C++ | JavaScript/TypeScript | Python
 - **Frameworks and Libraries**: Node Js | HTML | CSS | Tailwind CSS | Bootstrap | EJS | React | Express Js
 - **Databases**: MongoDB
-
-## Projects
-
-Here are a few projects I've been working on:
-
-### SabSaath
-**Description**: SabSaath is a web application designed to provide a seamless experience for users to sign up, log in and create posts. This project aims to offer a simple and user-friendly interface for managing user-generated content.
-- [GitHub Repository Link](https://github.com/aditya-chopde/sabsaath)
 
 ## GitHub Stats
 
