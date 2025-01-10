@@ -29,6 +29,4 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 - [LinkedIn](https://www.linkedin.com/in/aditya-chopde-486a102a2/)
 - [Twitter](https://x.com/aditya_devloper?s=09)
 
-## Contributions
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=aditya-chopde&theme=radical)
