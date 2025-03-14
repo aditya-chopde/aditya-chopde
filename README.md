@@ -18,9 +18,7 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=aditya-chopde&theme=tokyonight&hide_border=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=radical
 
 
 ## Top Languages
