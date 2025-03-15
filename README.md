@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 - 🎓 I am currently pursuing my Diploma in Computer Engineering from Government Polytechnic Nagpur.
 - 🌱 I’m currently learning Full Stack Stack and DSA.
 - 🤔 I’m looking to contribute in freelancing Projects.
-- 📫 How to reach me: its.adityac@gmail.com.
+- 📫 How to reach me: adityachopde27@gmail.com.
 
 ## Skills
 
