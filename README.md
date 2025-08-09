@@ -17,13 +17,10 @@ Welcome to my GitHub profile! I'm a Web Developer and I'm passionate about codin
 - **Databases**: MongoDB | MySQL | SupaBase 
 
 ## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=radical)
-
+![](https://nirzak-streak-stats.vercel.app/?user=aditya-chopde&theme=dark&hide_border=false)<br/>
 
 ## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chopde&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chopde&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## Connect with Me
 
