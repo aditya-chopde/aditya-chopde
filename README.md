@@ -6,13 +6,13 @@ Welcome to my GitHub profile! I'm a Full Stack Web Developer and I'm passionate 
 
 - 💻 I am a student at Government Polytechnic Nagpur.
 - 🎓 I am currently pursuing my Diploma in Computer Engineering from Government Polytechnic Nagpur.
-- 🌱 I’m currently learning Full Stack Stack and DSA.
+- 🌱 I’m currently exploring WEB3 and DSA.
 - 🤔 I’m looking to contribute in freelancing Projects.
 - 📫 How to reach me: adityachopde27@gmail.com.
 
 ## Skills
 
-- **Programming Languages**: C/C++ | JavaScript/TypeScript | Python | Java
+- **Programming Languages**: C/C++ | JavaScript/TypeScript | Python | Java | PHP
 - **Frameworks and Libraries**: Node Js | HTML | CSS | Tailwind CSS | Bootstrap | EJS | React | Express Js
 - **Databases**: MongoDB | MySQL | SupaBase 
 
