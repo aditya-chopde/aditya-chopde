@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aditya Chopde 👋
 
-### Full Stack Developer &nbsp;|&nbsp; AI/ML & LLM Enthusiast &nbsp;|&nbsp; Open Source Contributor
+### Full Stack Developer &nbsp;|&nbsp; AI/ML & LLM Enthusiast &nbsp;
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Exploring+LLMs+%26+RAG+systems;Preparing+for+GSoC+2027;Building%2C+learning%2C+breaking+things+%F0%9F%9A%80" alt="Typing SVG" />
 
