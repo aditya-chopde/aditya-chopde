@@ -111,9 +111,6 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chopde&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
 <br/>
 
 <img src="https://streak-stats.demolab.com?user=aditya-chopde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -134,7 +131,6 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-chopde&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
