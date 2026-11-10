@@ -1,93 +1,165 @@
-# Hi there, I'm Aditya Chopde! 👋
+<div align="center">
 
-### Full Stack Developer | AI/ML & LLM Enthusiast | Open Source Contributor
+# Hi there, I'm Aditya Chopde 👋
 
-I'm a Computer Engineering student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications, exploring AI/ML technologies, and solving real-world problems through code.
+### Full Stack Developer &nbsp;|&nbsp; AI/ML & LLM Enthusiast &nbsp;|&nbsp; Open Source Contributor
 
-I enjoy exploring new technologies, contributing to open source, and continuously improving my problem-solving and software engineering skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications;Exploring+LLMs+%26+RAG+systems;Preparing+for+GSoC+2027;Building%2C+learning%2C+breaking+things+%F0%9F%9A%80" alt="Typing SVG" />
 
----
+<p>
+  <a href="https://www.linkedin.com/in/aditya-chopde-486a102a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/aditya_devloper"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:adityachopde27@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=aditya-chopde&label=Profile%20Views&color=58a6ff&style=flat-square" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/aditya-chopde?label=Followers&style=flat-square&logo=github" alt="Followers" />
 
-- 🎓 Pursuing **B.Tech in Computer Engineering at VIT Pune**.
-- 💻 Full Stack Developer interested in building scalable and impactful applications.
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, LLMs, and RAG systems**.
-- 🌱 Currently learning advanced DSA, System Design, and AI Engineering.
-- 🔍 Interested in LLM applications, RAG pipelines, prompt injection protection, and developer tools.
-- 🌐 Actively exploring Open Source and preparing for **GSoC 2027**.
-- 🎯 Always looking for opportunities to collaborate, contribute, and build meaningful projects.
-- 📫 Reach me at: **adityachopde27@gmail.com**
+</div>
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
 
-### Programming Languages
-`C` `C++` `Java` `JavaScript` `TypeScript` `Python` `SQL`
+I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications, exploring AI/ML, and solving real-world problems through code. I love learning new technologies, contributing to open source, and sharpening my problem-solving and software engineering skills.
 
-### Frontend Development
-`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS` `Shadcn UI` `Bootstrap`
-
-### Backend Development
-`Node.js` `Express.js` `FastAPI` `REST APIs`
-
-### Databases & Storage
-`MongoDB` `MySQL` `PostgreSQL` `Supabase` `AWS S3`
-
-### AI / ML & LLM
-`Python` `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `LangChain` `RAG` `Vector Databases` `Ollama`
-
-### Tools & Technologies
-`Git` `GitHub` `Linux` `Docker` `Postman` `VS Code` `Vercel` `AWS`
+- 🎓 Pursuing **B.Tech in Computer Engineering** at **VIT Pune**
+- 💻 Full Stack Developer building scalable, impactful applications
+- 🤖 Exploring **AI, Machine Learning, LLMs, and RAG systems**
+- 🌱 Currently learning **advanced DSA, System Design, and AI Engineering**
+- 🔍 Interested in **LLM applications, RAG pipelines, prompt-injection protection, and developer tools**
+- 🌐 Actively exploring **Open Source** and preparing for **GSoC 2027**
+- 🎯 Always open to collaborating and building meaningful projects
+- 📫 Reach me at **[adityachopde27@gmail.com](mailto:adityachopde27@gmail.com)**
 
 ---
 
 ## 🧠 Current Focus
 
-- Building practical applications using **MERN and Next.js**.
-- Learning and implementing **Retrieval-Augmented Generation (RAG)**.
-- Exploring LLM optimization, prompt engineering, and AI-powered applications.
-- Strengthening Data Structures and Algorithms through problem-solving.
-- Contributing to open-source projects and preparing for GSoC 2027.
-- Exploring system design and scalable backend architectures.
+| Area | What I'm working on |
+|------|---------------------|
+| 🌐 **Web Development** | Building practical applications with MERN and Next.js |
+| 🤖 **AI / LLMs** | Implementing Retrieval-Augmented Generation (RAG), LLM optimization, prompt engineering |
+| 🧮 **DSA** | Strengthening problem-solving through consistent practice |
+| 🏗️ **System Design** | Scalable backend architectures |
+| 🌍 **Open Source** | Contributing to projects and preparing for GSoC 2027 |
 
 ---
 
-## 🔥 GitHub Stats
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aditya-chopde&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</p>
+**Languages**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📊 Top Languages
+**Frontend**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chopde&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Languages" />
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Databases & Storage**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+**AI / ML & LLM**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-8A2BE2?style=for-the-badge)
+![Vector DBs](https://img.shields.io/badge/Vector-Databases-blue?style=for-the-badge)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aditya-chopde&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditya-chopde&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=aditya-chopde&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aditya-chopde&theme=tokyonight" alt="Profile Details" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aditya-chopde&theme=tokyonight" alt="Repos per Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aditya-chopde&theme=tokyonight" alt="Most Commit Language" />
+
+<br/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aditya-chopde&theme=tokyonight" alt="Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aditya-chopde&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aditya-chopde&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aditya-chopde&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aditya-chopde-486a102a2/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/aditya_devloper" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X" />
-  </a>
-  <a href="mailto:adityachopde27@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aditya-chopde-486a102a2/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/aditya_devloper"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="mailto:adityachopde27@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
 
----
+<div align="center">
 
 ### 💡 "Building, learning, breaking things, and building them better."
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
+
+</div>
